@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cs projects\\RM_Project\\RM_Project.csproj",
+      "projectUniqueName": "C:\\Users\\mahditd\\Source\\Repos\\Restaurant_Managing_Project\\RM_Project\\RM_Project.csproj",
       "projectName": "RM_Project",
-      "projectPath": "C:\\cs projects\\RM_Project\\RM_Project.csproj",
+      "projectPath": "C:\\Users\\mahditd\\Source\\Repos\\Restaurant_Managing_Project\\RM_Project\\RM_Project.csproj",
       "packagesPath": "C:\\Users\\mahditd\\.nuget\\packages\\",
-      "outputPath": "C:\\cs projects\\RM_Project\\obj\\",
+      "outputPath": "C:\\Users\\mahditd\\Source\\Repos\\Restaurant_Managing_Project\\RM_Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
