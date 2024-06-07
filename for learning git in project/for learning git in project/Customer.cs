@@ -8,6 +8,7 @@ namespace for_learning_git_in_project
 {
     class Customer
     {
+        string password;
         string name;
     }
 }

@@ -1,10 +1,15 @@
 ﻿using System;
 
-public class customer
+namespace RM_Project
 {
-    public customer()
+    public class customer
     {
-        string userName;
-        string passWord;
+        
+        public customer()
+        {
+            string userName;
+            string passWord;
+
+        }
     }
 }
